@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+# About Me
+
+⚛ **Quantum Machine Learning Enthusiast**  
+💻 **Major:** Software Engineering  
+📐 **Minor:** Electronics Engineering  
+
+## Skills
+- 💻 **Programming Languages:** Python  
+- ⚛ **Quantum Computing SDKs**
+
+## Currently Studying
+- 📚 **Quantum Information**  
+- 📚 **Quantum Machine Learning**  
+- 📚 **Classical Machine Learning**  
 <!--
 **Dang-Khoa-Tao/Dang-Khoa-Tao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
