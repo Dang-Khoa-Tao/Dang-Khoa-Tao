@@ -5,7 +5,7 @@
 ⚛ **Quantum Information Science**  
 
 ## Skills
-- 💻 **Programming Languages:** Python  
+- 💻 **Programming Languages:** Python, C++
 - ⚛ **Quantum Computing SDKs**
 
 ## Currently Studying
