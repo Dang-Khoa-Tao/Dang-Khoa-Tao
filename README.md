@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-# About Me
+# Research field
 
-⚛ **Quantum Machine Learning Enthusiast**  
-💻 **Major:** Software Engineering  
-📐 **Minor:** Electronics Engineering  
+⚛ **Quantum Information Science**  
 
 ## Skills
 - 💻 **Programming Languages:** Python  
