@@ -11,7 +11,8 @@
 ## Currently Studying
 - 📚 **Quantum Information**  
 - 📚 **Quantum Machine Learning**  
-- 📚 **Classical Machine Learning**  
+- 📚 **Classical Machine Learning**
+- 📚 **Tensor Networks** 
 <!--
 **Dang-Khoa-Tao/Dang-Khoa-Tao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
